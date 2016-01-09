@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IyaPhoneService</string>
+    <string name="preference_file_key">fr.iyadev.droid.iyaphoneservice.preference</string>
+    <string name="preference_phoneNumber">phoneNumber</string>
+    <string name="preference_password">password</string>
+    <string name="sample_device_admin">TEST</string>
+    <string name="sample_device_admin_description">TEST DESCRIPTION</string>
+</resources>
